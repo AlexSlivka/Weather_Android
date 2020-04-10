@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="the_day_temperature_text">Температура днем</string>
+    <string name="the_day_temperature_value">+17</string>
+    <string name="temperature_at_night_text">Температура ночью</string>
+    <string name="temperature_at_night_value">-5</string>
+    <string name="rainfall_text">Осадки</string>
+    <string name="rainfall_value">Ясно</string>
+    <string name="update_text_button">Обновить</string>
+    <string name="city_text">Город</string>
+    <string name="date">10.04.2020</string>
+</resources>
