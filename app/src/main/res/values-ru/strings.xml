@@ -10,4 +10,7 @@
     <string name="update_text_button">Обновить</string>
     <string name="city_text">Город</string>
     <string name="date">10.04.2020</string>
+    <string name="textviewSetCity">Выбор города</string>
+    <string name="nameCityFromEditWindow">Название города</string>
+    <string name="buttonSetCity">Подтвердить выбор</string>
 </resources>

@@ -9,4 +9,7 @@
 <string name="update_text_button">Update</string>
 <string name="city_text">City</string>
 <string name="date">10.04.2020</string>
+    <string name="textviewSetCity">Choosing a city</string>
+    <string name="nameCityFromEditWindow">Name</string>
+    <string name="buttonSetCity">Confirmation</string>
 </resources>
