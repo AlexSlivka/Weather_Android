@@ -34,4 +34,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //для ветки lesson01
+    //для ветки lesson02
 }
